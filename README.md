@@ -25,6 +25,10 @@ Please, ensure that you have NodeJS installed on your device.
 ### The Screenshots of the front-end of the Dapp
 
 Visit https://doitdapp.herokuapp.com/ to see the live version of this application
+
+### Download Metamask
+<img src="https://github.com/Bonifaceebuka/doit/blob/main/screenshots/nometamask.PNG">
+
 ### Connect your wallet
 <img src="https://github.com/Bonifaceebuka/doit/blob/main/screenshots/login.PNG">
 
