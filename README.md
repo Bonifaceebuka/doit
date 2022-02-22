@@ -26,14 +26,14 @@ Please, ensure that you have NodeJS installed on your device.
 
 Visit https://doitdapp.herokuapp.com/ to see the live version of this application
 ### Connect your wallet
-<img src="https://github.com/Bonifaceebuka/bitwishes/blob/main/screenshots/login.PNG">
+<img src="https://github.com/Bonifaceebuka/doit/blob/main/screenshots/login.PNG">
 
 ### Choose your wallet provider
-<img src="https://github.com/Bonifaceebuka/bitwishes/blob/main/screenshots/wallet.PNG">
+<img src="https://github.com/Bonifaceebuka/doit/blob/main/screenshots/wallet.PNG">
 
 ### List of the To-dos
-<img src="https://github.com/Bonifaceebuka/bitwishes/blob/main/screenshots/list.PNG">
+<img src="https://github.com/Bonifaceebuka/doit/blob/main/screenshots/list.PNG">
 
 ### Edit a selected To-do
-<img src="https://github.com/Bonifaceebuka/bitwishes/blob/main/screenshots/edit.PNG">
+<img src="https://github.com/Bonifaceebuka/doit/blob/main/screenshots/edit.PNG">
 
