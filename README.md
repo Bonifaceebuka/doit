@@ -31,7 +31,7 @@ Visit https://doitdapp.herokuapp.com/ to see the live version of this applicatio
 ### Choose your wallet provider
 <img src="https://github.com/Bonifaceebuka/doit/blob/main/screenshots/wallet.PNG">
 
-### Create a To-dos
+### Create a To-do
 <img src="https://github.com/Bonifaceebuka/doit/blob/main/screenshots/create.PNG">
 
 ### List of the To-dos
